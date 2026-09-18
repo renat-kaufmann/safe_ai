@@ -13,10 +13,10 @@ project:
     - risk management
     - defense in depth
   authors:
-    - name: Renat Shigapov
+    - name: Renat Kaufmann
       orcid: 0000-0002-0331-2558
-      github: shigapov
-      linkedin: https://www.linkedin.com/in/renat-shigapov
+      github: renat-kaufmann
+      linkedin: https://www.linkedin.com/in/renat-kaufmann
   license:
     content:
       id: CC-BY-4.0
@@ -26,8 +26,8 @@ project:
     jupyter: https://docs.jupyter.org/en/latest
 
   date: 2025-12-16
-  github: https://github.com/shigapov/safe_ai
-  edit_url: https://github.com/shigapov/safe_ai
+  github: https://github.com/renat-kaufmann/safe_ai
+  edit_url: https://github.com/renat-kaufmann/safe_ai
   
   plugins:
     - https://github.com/TUD-JB-Templates/JB2_plugins/releases/download/experiment/experiment.mjs
