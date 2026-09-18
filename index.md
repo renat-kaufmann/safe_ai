@@ -27,8 +27,8 @@ _A living open educational resource, workbook, and workshop._
 
 **License**. The content is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode), until otherwise stated.
 
-**Links**. Archived source, workbook, and slides (all versions): https://doi.org/10.5281/zenodo.17940942. GitHub: https://github.com/shigapov/safe_ai.
+**Links**. Archived source, workbook, and slides (all versions): https://doi.org/10.5281/zenodo.17940942. GitHub: https://github.com/renat-kaufmann/safe_ai.
 
 <div style="text-align: center", font-size: 1.2em>
-by Dr. Renat Shigapov
+by Dr. Renat Kaufmann
 </div>
