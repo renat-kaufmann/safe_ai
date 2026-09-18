@@ -8,6 +8,8 @@ AI tools increasingly support all stages of research projects. At the same time,
 
 ## Agenda
 
+### Full version
+
 * INTRODUCTION
 * PART 1: Theory
 * 1.1 Freedom of research under ethical, integrity, and governance (legal and regulatory) constraints
@@ -19,9 +21,18 @@ AI tools increasingly support all stages of research projects. At the same time,
 * 2.3 AI policies and checklists for research groups and research projects
 * SUMMARY
 
+### Awareness version
+
+Introduction
+1. Risks in research context
+2. Risk management in research projects
+3. Risk management across the research lifecycle
+4. AI policies and checklists for research groups and research projects
+Conclusions
+
 ## Slides
 
-Shigapov, R. (2025, Dezember 15). Safe and secure use of AI in research projects. Zenodo. https://doi.org/10.5281/zenodo.17940943
+Kaufmann, R. (2025, December 15 - 2026, September 18). Safe and secure use of AI in research projects. Zenodo. https://doi.org/10.5281/zenodo.17940942 (DOI for all versions)
 
 ## PDF book
 
