@@ -131,7 +131,7 @@ Research organisations apply these guidelines whenever possible. If needed, they
 
 ```{exercise} GAIDeT Declaration Generator 
 
-* Test https://panbibliotekar.github.io/gaidet-declaration/index.htm
+* Test https://panbibliotekar.github.io/gaidet-declaration/
 * Read paper https://doi.org/10.1080/08989621.2025.2544331 and discuss it with colleagues
 ```
 
